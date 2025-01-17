@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7731c9e3c61bebc",
+        "id": "cbf6e1d5c670c2d5",
         "type": "tabs",
         "children": [
           {
-            "id": "fc6ef6c44378d9c4",
+            "id": "f026ff1ab1d9db70",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,19 +169,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc6ef6c44378d9c4",
+  "active": "0e48f704e4f9573c",
   "lastOpenFiles": [
-    "Programming/Logic-Notes.md",
-    "Welcome.md",
-    "Bash Programming/snippets.md",
-    "Bash Programming/working with files.md",
     "git/commands.md",
     "git",
-    "Bash Programming/snippets2.md",
-    "Bash Programming",
     "Recursion/recursion-notes.md",
     "Recursion",
-    "Untitled.canvas",
-    "Programming"
+    "Programming/Logic-Notes.md",
+    "Programming",
+    "Bash Programming/working with files.md",
+    "Bash Programming/snippets2.md",
+    "Bash Programming/snippets.md",
+    "Bash Programming",
+    "Welcome.md",
+    "Untitled.canvas"
   ]
 }
