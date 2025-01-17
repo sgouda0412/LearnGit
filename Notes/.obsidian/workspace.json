@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "3d74f01fe67ccdcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7731c9e3c61bebc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc6ef6c44378d9c4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "026eaeea98b47e27",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d102c354a85b9a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e48f704e4f9573c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "69732bf897a0c966",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "026b858351a8c031",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bde0916ca90ba6b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3751193ad53ae924",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "facdd7f7eb002893",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/Logic-Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Logic-Notes"
+            }
+          },
+          {
+            "id": "3f39c53786fc243c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming/Logic-Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Logic-Notes"
+            }
+          },
+          {
+            "id": "4eb89d257b4a06ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "06c34778a291aded",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/Logic-Notes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Logic-Notes"
+            }
+          },
+          {
+            "id": "a81cd5fb89bd8d33",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fc6ef6c44378d9c4",
+  "lastOpenFiles": [
+    "Programming/Logic-Notes.md",
+    "Welcome.md",
+    "Bash Programming/snippets.md",
+    "Bash Programming/working with files.md",
+    "git/commands.md",
+    "git",
+    "Bash Programming/snippets2.md",
+    "Bash Programming",
+    "Recursion/recursion-notes.md",
+    "Recursion",
+    "Untitled.canvas",
+    "Programming"
+  ]
+}
