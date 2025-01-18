@@ -327,3 +327,8 @@ if __name__ == "__main__":
     print("\n--- 9. Measuring Execution Time ---")
     measure_execution_time()
 ```
+
+```python
+return list(set(nums1) & set(nums2))  # intersection of 2 sets
+```
+

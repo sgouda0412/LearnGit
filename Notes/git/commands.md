@@ -17,12 +17,17 @@ git commit -m "Commit message"  # Commit the staged changes with a descriptive m
 
 # Push changes to a remote repository
 git push origin <branch_name>  # Push the local changes to the remote branch
+*main* *branch-name*
 
 # Pull changes from a remote repository
 git pull origin <branch_name>  # Fetch and merge changes from the remote repository
 
 # View the commit history
 git log  # Shows the commit history in the current branch
+
+
+git log --oneline --graph --pretty=format:"%C(yellow)%h%C(reset) %C(cyan)%d%C(reset) %C(bold)%s%C(reset) %C(magenta)[%an] %C(blue)(%cr)"
+
 
 # View the differences between your working directory and staged files
 git diff  # Shows changes between the working directory and the index (staging area)
